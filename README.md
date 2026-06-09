@@ -157,6 +157,5 @@ rag-document-assistant/
 
 **⭐ If this project helped you, consider starring the repo!**
 
-Made with ❤️ using local AI
 
 </div>
